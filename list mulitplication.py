@@ -15,3 +15,4 @@ for i in range(len(l1)):
     l3.append(l2[i]%l1[i])
 print('Final list ')
 print(l3)
+print("doing merge")
